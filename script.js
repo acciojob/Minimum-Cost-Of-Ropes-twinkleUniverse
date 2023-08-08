@@ -15,7 +15,7 @@ function calculateMinCost() {
 		array.push(sum);
 	}
 	console.log(minCost);
-	div.innerText="result: "+minCost;
+	div.innerText=minCost;
 	//p.innerText="result: "+minCost;
 	//div.appendChild(p);
 }  
